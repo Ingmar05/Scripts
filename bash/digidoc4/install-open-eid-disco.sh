@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/Ingmar05/Scripts
 echo "Ubuntu 18.04 is not officially supported, use at you own risk!"
 echo "Downloading libzip4"
 wget http://http.us.debian.org/debian/pool/main/libz/libzip/libzip4_1.5.1-4_amd64.deb

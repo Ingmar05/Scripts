@@ -1,7 +1,8 @@
 # ID-software installer script for Ubuntu 19.04 (Disco Dingo)
 
 This script can be used to install Estonian ID-software (DigiDoc4) on Ubuntu 19.04 (Disco Dingo).
-Ubuntu 19.94 is not supported by the official installer, use at your own risk.
+Ubuntu 19.04 is not supported by the official installer, use at your own risk.
+
 Official installer: [https://installer.id.ee](https://installer.id.ee)
 
 ## Usage:

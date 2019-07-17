@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=/home/ingmar/Scripts/RebootWindows.sh
+Name=Windows
+Comment=Reboot to Windows
+Icon=/home/ingmar/Scripts/windows.ico
